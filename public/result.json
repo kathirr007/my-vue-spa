@@ -1,0 +1,88 @@
+{
+  "name": "my-vue-spa",
+  "path": "H:\\Kathirr K\\2018\\Projects\\Test\\my-vue-spa",
+  "relativePath": ".",
+  "type": "directory",
+  "isSymbolicLink": false,
+  "sizeInBytes": 3703,
+  "size": "3.7 KB",
+  "hash": "87134ba864d332339f9b86d3682c713f",
+  "children": [{
+    "name": "public",
+    "path": "H:\\Kathirr K\\2018\\Projects\\Test\\my-vue-spa\\public",
+    "relativePath": "public",
+    "type": "directory",
+    "isSymbolicLink": false,
+    "sizeInBytes": 0,
+    "size": "0 B",
+    "hash": "9a35a38f95581788eb45f61f13ce7785",
+    "children": [{
+      "name": "assets",
+      "path": "H:\\Kathirr K\\2018\\Projects\\Test\\my-vue-spa\\public\\assets",
+      "relativePath": "public\\assets",
+      "type": "directory",
+      "isSymbolicLink": false,
+      "sizeInBytes": 0,
+      "size": "0 B",
+      "hash": "32bb636196f91ed59d7a49190e26b42c"
+    }]
+  }, {
+    "name": "src",
+    "path": "H:\\Kathirr K\\2018\\Projects\\Test\\my-vue-spa\\src",
+    "relativePath": "src",
+    "type": "directory",
+    "isSymbolicLink": false,
+    "sizeInBytes": 3703,
+    "size": "3.7 KB",
+    "hash": "edaa982a2f6f8e79a110dd40f19dfe04",
+    "children": [{
+      "name": "App.vue",
+      "path": "H:\\Kathirr K\\2018\\Projects\\Test\\my-vue-spa\\src\\App.vue",
+      "relativePath": "src\\App.vue",
+      "type": "file",
+      "isSymbolicLink": false,
+      "extension": "vue",
+      "sizeInBytes": 1193,
+      "size": "1.19 KB",
+      "hash": "54e8f642064794779e11b255ff0edcb9"
+    }, {
+      "name": "assets",
+      "path": "H:\\Kathirr K\\2018\\Projects\\Test\\my-vue-spa\\src\\assets",
+      "relativePath": "src\\assets",
+      "type": "directory",
+      "isSymbolicLink": false,
+      "sizeInBytes": 0,
+      "size": "0 B",
+      "hash": "32bb636196f91ed59d7a49190e26b42c"
+    }, {
+      "name": "components",
+      "path": "H:\\Kathirr K\\2018\\Projects\\Test\\my-vue-spa\\src\\components",
+      "relativePath": "src\\components",
+      "type": "directory",
+      "isSymbolicLink": false,
+      "sizeInBytes": 2510,
+      "size": "2.51 KB",
+      "hash": "8693821bc1c3e2ac398fd3e580a707f4",
+      "children": [{
+        "name": "CourseContens.vue",
+        "path": "H:\\Kathirr K\\2018\\Projects\\Test\\my-vue-spa\\src\\components\\CourseContens.vue",
+        "relativePath": "src\\components\\CourseContens.vue",
+        "type": "file",
+        "isSymbolicLink": false,
+        "extension": "vue",
+        "sizeInBytes": 2510,
+        "size": "2.51 KB",
+        "hash": "c352b2f9d3eb1201f177cd9a3335b50e"
+      }]
+    }, {
+      "name": "plugins",
+      "path": "H:\\Kathirr K\\2018\\Projects\\Test\\my-vue-spa\\src\\plugins",
+      "relativePath": "src\\plugins",
+      "type": "directory",
+      "isSymbolicLink": false,
+      "sizeInBytes": 0,
+      "size": "0 B",
+      "hash": "63dc9087c660611bdf3fcb1a1257247a"
+    }]
+  }]
+}
